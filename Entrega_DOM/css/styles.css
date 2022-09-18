@@ -1,0 +1,10 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+}
+
+h1 {
+    background-color: rgb(18, 18, 66);
+    text-align: center;
+    color: white;
+}
